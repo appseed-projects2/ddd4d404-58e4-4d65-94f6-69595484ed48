@@ -1,0 +1,5 @@
+{
+    "name": "fullstack-react-material-kit",
+    "type": "fullstack",
+    "dirs": "api-server-nodejs, react-ui"
+}
